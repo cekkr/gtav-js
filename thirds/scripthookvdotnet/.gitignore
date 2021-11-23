@@ -1,0 +1,22 @@
+# Build results
+bin/
+obj/
+intermediate/
+Debug/
+Release/
+
+# Visual Studio cache files
+.vs/
+ipch/
+*.aps
+*.cachefile
+*.VC.db
+*.opendb
+*.opensdf
+*.user
+*.sdf
+*.suo
+
+# Temporary OS files
+.DS_Store
+Thumbs.db
