@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GTAV_JS
 {
-    public class Class1
+    public class Main
     {
+
     }
 }
