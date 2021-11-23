@@ -7,12 +7,8 @@ using System.Threading.Tasks;
 
 namespace GTAV_JS
 {
-    public class GTAVJS : Script
+    [ScriptAttributes(NoDefaultInstance = true)]
+    class Factotum : Script
     {
-        public GTAVJS()
-        {
-            // Start here
-        }
-        
     }
 }
