@@ -50,7 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Factotum.cs" />
+    <Compile Include="FactotumJint.cs" />
     <Compile Include="GTAVJS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
